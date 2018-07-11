@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Material Docs</title>
-    <link>https://example.org/</link>
+    <link>https://davidraba.github.io/</link>
     <description>Recent content on Material Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Mar 2016 20:08:11 +0100</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidraba.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roadmap</title>
-      <link>https://example.org/roadmap/</link>
+      <link>https://davidraba.github.io/roadmap/</link>
       <pubDate>Wed, 09 Mar 2016 20:08:11 +0100</pubDate>
       
-      <guid>https://example.org/roadmap/</guid>
+      <guid>https://davidraba.github.io/roadmap/</guid>
       <description>Quo vadis? The port of the original Material theme has replicated nearly all of its features. A few are still missing but I&amp;rsquo;ve good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
 Good reference guide PhD on Track
 Localization Currently, it is possible to collect all strings in a single place for easy customization.</description>
