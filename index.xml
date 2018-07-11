@@ -19,7 +19,7 @@
       <guid>https://davidraba.github.io/roadmap/</guid>
       <description>Quo vadis? The port of the original Material theme has replicated nearly all of its features. A few are still missing but I&amp;rsquo;ve good news: the Hugo community is actively working on this issues. Maybe with the next release of Hugo we can abandon this list. Stay tuned.
 Good reference guide PhD on Track
-Localization Currently, it is possible to collect all strings in a single place for easy customization.</description>
+   Tables Are Cool     col 3 is right-aligned $1600   col 2 is centered $12   zebra stripes are neat $1    Localization Currently, it is possible to collect all strings in a single place for easy customization.</description>
     </item>
     
   </channel>

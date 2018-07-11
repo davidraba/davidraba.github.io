@@ -8,6 +8,12 @@ Quo vadis? The port of the original [Material theme](https://github.com/squidfun
 
 Good reference guide [PhD on Track](http://www.phdontrack.net/review-and-discover/systematic-review-searching/)
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Localization
 
 Currently, it is possible to collect all strings in a single place for easy customization. However, this only enables you to define all strings in a single language. This approach is quite limiting in terms of localization support. Therefore, I decided to wait for a native integration. This way we can avoid a second setup of all strings in your website.
