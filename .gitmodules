@@ -1,3 +1,6 @@
 [submodule "src/scm-phd/themes/hugo-material-docs"]
 	path = src/scm-phd/themes/hugo-material-docs
 	url = https://github.com/digitalcraftsman/hugo-material-docs.git
+[submodule "personal/themes/minimo"]
+	path = personal/themes/minimo
+	url = https://github.com/MunifTanjim/minimo
